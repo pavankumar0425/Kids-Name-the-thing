@@ -1,0 +1,7 @@
+{
+  "name": "KidQuiz Adventure: Holiday Fun",
+  "description": "An interactive, educational quiz game for 3rd graders featuring 'Name That Thing' image challenges, math puzzles, and various categories like animals, flags, and famous people.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
